@@ -48,7 +48,10 @@ For that, we are using data about the company's customers to train our models an
   * `Charges.Monthly`: client's total services of the month
   * `Charges.Total`: client's total spents
 
-In order to do that, we are using an over-sampling technique for handling imbalanced classes and traning classification models such as Logistic Regression, Random Forests and Gradient Boosting.
+In order to do that, we are using an over-sampling technique for handling imbalanced classes and traning classification models such as:
+  * Logistic Regression
+  * Random Forests
+  * Gradient Boosting.
 
 ## Needs of this project
 
