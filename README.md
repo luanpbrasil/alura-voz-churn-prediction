@@ -6,6 +6,14 @@ This project was developed for the 1st Alura Data Science Challenge.
 ## Project Intro/Objective
 The purpose of this project is to develop a classification model for churn prediction for a fictitious company called _Alura Voz_, in order to help them reduce thier churn rate.
 
+To start, let's clarify what Churn is. The term refers to the rate of customer or user loss over a certain period of time. It is a crucial indicator for companies in various sectors as it directly impacts revenue and business health. Therefore, when we refer to Churn in our dataset, we will be discussing whether a customer continues to make purchases with the company or not.
+
+During this workshop, we will follow the CRISP-DM method, a widely used approach in Data Science projects, which consists of: business understanding, data understanding, data preparation, modeling, evaluation, and implementation. Here, we will cover as much as possible of the concepts up to the evaluation phase.
+
+Along the way, we will address data analysis techniques, preprocessing, feature selection, and the choice and evaluation of the performance of Machine Learning models.
+
+Let's go! 😎
+
 ### Methods Used
 * Exploratory Data Analysis
 * Data Visualization
@@ -61,8 +69,6 @@ In order to do that, we are using an over-sampling technique for handling imbala
 - model evaluation and optimization
 
 ## Featured Notebooks/Analysis/Deliverables
-* [notebooks/data_pre_processing-dataset_preparation.ipynb](https://github.com/luanpbrasil/alura-voz/blob/main/notebooks/data_pre_processing-dataset_preparation.ipynb)
-* [notebooks/variables_analysis.ipynb](https://github.com/luanpbrasil/alura-voz/blob/main/notebooks/variables_analysis.ipynb)
-* [notebooks/preprocessing_and_modeling-week_3.ipynb](https://github.com/luanpbrasil/alura-voz/blob/main/notebooks/preprocessing_and_modeling-week_3.ipynb)
+* [churn_prediction.ipynb](https://github.com/luanpbrasil/alura-voz/blob/main/churn_prediction.ipynb)
 
 #alurachallengedatascience1
