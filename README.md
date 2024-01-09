@@ -1,4 +1,4 @@
-# Alura Voz
+# Alura Voz - Churn Prediction
 This project was developed for the 1st Alura Data Science Challenge.
 
 #### -- Project Status: Active
